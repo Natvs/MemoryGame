@@ -1,7 +1,7 @@
 # MemoryGame
-A mini memory game against the computer if you ever get bored.
+A mini memory game against if you ever get bored.
 
-This game is only against computer, not against real humans.
+This game is only against human. A game against your computer may be implemented soon.
 
 During the preparation phase, you can choose:
 - Between two packs (for the cards)
@@ -12,4 +12,4 @@ During the preparation phase, you can choose:
 - The time of the timer
 - The size of the cards board
 
-There are no real different difficulties in this version.
+There are no big difficulties in this version.
